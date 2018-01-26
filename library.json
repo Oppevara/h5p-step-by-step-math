@@ -1,0 +1,16 @@
+{
+  "title": "Step by Step Math",
+  "description": "Step by Step Math",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "Sander Aido",
+  "license": "MIT",
+  "machineName": "H5P.StepByStepMath",
+  "preloadedJs": [
+    {
+      "path": "scripts/index.js"
+    }
+  ]
+}
